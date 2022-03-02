@@ -5,7 +5,7 @@
 
 [![](https://img.shields.io/badge/MADE%20WITH-PHP-blueviolet)](https://img.shields.io/badge/MADE%20WITH-PHP-blueviolet)  [![](https://img.shields.io/badge/-RSS-orange)](https://img.shields.io/badge/-RSS-orange)  [![](https://img.shields.io/badge/-JSON-green)](http://https://img.shields.io/badge/-JSON-green)
 
-## Configuração :fa-cogs: 
+## Configuração
 #### ./config
 Na pasta `config` há o arquivo `url.php`, onde é definida a url a ser invocada no código (o enderço do feed RSS), e o arquivo `format_functions.php`, criado para tratar o conteúdo recebido, especialmente para esse caso.
 
