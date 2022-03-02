@@ -1,4 +1,3 @@
-<h1 align="center">![Logo](http://www.soldi.dev.br/assets/logo_sm.png "Logo")</h1>
 
 # Transforme um serviço RSS em API JSON
 
