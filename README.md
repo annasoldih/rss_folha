@@ -15,8 +15,5 @@ Provavelmente, em outros links RSS, você precisará criar novas formas de trata
 ### index.php
 Com uma simples manipulação de DOM, o arquivo principal extrai as informações do feed e devolve um JSON que pode ser utilizado em qualquer outro aplicativo.
 
-## Endpoint [![](https://img.shields.io/badge/website-on-success)](http://https://img.shields.io/badge/website-on-success)
-O endpoint ficará disponível [neste link](http://www.soldi.dev.br/api/public/news "neste site") por tempo indeterminado, podendo eventualmente ser removido sem prévio aviso.
-
 ## Developer [![](https://img.shields.io/badge/contact-me-success)](https://img.shields.io/badge/contact-me-success)
 [Anna Hamann](mailto:anna@soldi.dev.br "Anna Hamann")
